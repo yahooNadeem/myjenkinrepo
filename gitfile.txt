@@ -1,1 +1,11 @@
 mygitfile to push
+
+
+
+Suggested improvement: Before overwriting anything with an -f, I'd suggest comparing the local and remote branched which have diverged, ie:
+
+git diff develop origin/develop
+Then if happy the changes is immaterial, you can override any checks that Git does by using "force push". Use this command in the terminal:
+
+git push -f origin master
+However, you will potentially ignore the existing work that is in remote. You are effectively rewriting the remote's history to be exactly like your local copy.
