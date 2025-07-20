@@ -1,0 +1,9 @@
+1--git status---to check branch
+2--git add .
+3--git commit -m "play commit"
+4--git remote add origindetails "url of branch"
+5--git push -u orgindetails branchname(gitbranchrepo)
+6--git checkout main-- to switch on new branch
+7--git merge orgindetails/branchname
+8--go on github, look for behind commit in main or master branch
+9--click on behinf commit and create pull request to merge new change from ur to main branch
