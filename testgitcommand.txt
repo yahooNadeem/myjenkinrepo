@@ -4,4 +4,8 @@ Delete echo
 
 new echo
 
+<<<<<<< HEAD
 push echo
+=======
+testecho
+>>>>>>> main
