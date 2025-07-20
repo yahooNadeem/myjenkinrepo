@@ -3,3 +3,5 @@ Echo command test
 Delete echo
 
 new echo
+
+push echo
