@@ -7,3 +7,4 @@
 7--git merge orgindetails/branchname
 8--go on github, look for behind commit in main or master branch
 9--click on behinf commit and create pull request to merge new change from ur to main branch
+this is new line
